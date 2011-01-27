@@ -1,0 +1,1 @@
+This is a prototype I wrote in 2002 as a Navigator UI for Teamware (A version Control System). It is a Netbeans module. I haven't compiled it for the past 8 years. Since Netbeans API has changed so much since then, it might not even compile. But I often steal code from this for my later projects.

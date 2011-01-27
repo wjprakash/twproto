@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.0//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_0.dtd">
+<filesystem>
+    <folder name="Menu">
+        <folder name="View">
+            <file name="com-sun-teamware-actions-TwShowNavigatorAction.instance"/>
+            <attr boolvalue="true" name="org-netbeans-modules-javadoc-search-SearchDocAction.instance/com-sun-teamware-actions-TwShowNavigatorAction.instance"/>
+            <attr boolvalue="true" name="com-sun-teamware-actions-TwShowNavigatorAction.instance/[Separator2]javax-swing-JSeparator.instance"/>
+        </folder>
+    </folder>
+    <folder name="Toolbars">
+
+        <folder name="TeamWare">
+            <file name="com-sun-teamware-actions-TwShowNavigatorAction.instance"/>
+            <attr boolvalue="true" name="com-sun-teamware-module-CreateWorkspaceAction.instance/com-sun-teamware-actions-TwShowNavigatorAction.instance"/>
+        </folder>
+    </folder>
+</filesystem>
