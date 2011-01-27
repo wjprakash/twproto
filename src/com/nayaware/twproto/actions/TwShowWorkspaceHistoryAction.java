@@ -1,8 +1,6 @@
-/**
- * Copyright 2001 Sun Microsystems, Inc. All rights reserved.
- * Use is subject to license terms.
+/** TwShowWorkspaceHistoryAction.java
  *
- * TwFileHistoryAction.java
+ * Author  Winston Prakash
  */
 
 package com.nayaware.twproto.actions;
